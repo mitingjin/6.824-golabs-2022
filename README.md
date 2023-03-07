@@ -13,7 +13,7 @@
 **Note**: Cannot Pass Lab 3 TestSpeed3A And TestSpeed3B
 
 ### [Lab 4: Sharded Key/Value Service](http://nil.csail.mit.edu/6.824/2022/labs/lab-shard.html)
-- [ ] Part A: The Shard controller
+- [X] Part A: The Shard controller
 - [ ] Part B: Sharded Key/Value Server
     - [ ] Garbage collection of state
     - [ ] Client requests during configuration changes
