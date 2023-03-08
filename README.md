@@ -1,5 +1,11 @@
 ## [MIT 6.824 Distributed Systems Golabs, Spring 2022](http://nil.csail.mit.edu/6.824/2022/index.html)
 
+### [Lab 1: MapReduce](http://nil.csail.mit.edu/6.824/2022/labs/lab-mr.html)
+
+- [X] Lab 1: MapReduce
+
+**Note**: dialing:dial unix /var/tmp/824-mr-1000: connect: connection refused
+
 ### [Lab 2: Raft](http://nil.csail.mit.edu/6.824/2022/labs/lab-raft.html)
 - [X] Part 2A: leader election
 - [X] Part 2B: log
